@@ -18,7 +18,7 @@
     "broccoli-source": "^2.1.2",
     "cheerio": "^1.0.0-rc.2",
     "ember-cli-babel": "^7.1.2",
-    "esprima": "^4.0.1",
+    "espree": "^6.1.1",
     "esprima-walk": "^0.1.0",
     "js-beautify": "^1.9.0",
     "lodash": "^4.17.11",
